@@ -6,3 +6,9 @@
 
 ## Our projects
 <img src="images/chytalochka/logo_en.png" width="250">
+
+
+## Contacts:
+- beadcatcraft@gmail.com
+
+--------
