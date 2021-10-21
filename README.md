@@ -1,4 +1,4 @@
 # beadcat.github.io
-![]({{site.baseurl}}//images/topper.png | 100)
+<img src="images/topper.png" width="500">
 
 <img src="https://github.com/favicon.ico" width="500">
