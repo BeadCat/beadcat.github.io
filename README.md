@@ -3,7 +3,7 @@
 # Bead Cat Craft
 
 _**Educational applications for children and teenagers, as well as their parents. Assistance in preparing for school**_
-## Our projects
+## Our projects:
 <img src="images/chytalochka/logo_en.png" width="250">
 
 
