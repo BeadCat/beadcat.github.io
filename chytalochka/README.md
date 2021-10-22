@@ -47,4 +47,5 @@ _**Educational application for children, preparing for school**_
 ## Note
 
 The project partially uses original and adapted images from an open project: <a href="https://openmoji.org"> OpenMoji </a>
+
 ----
