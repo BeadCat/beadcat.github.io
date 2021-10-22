@@ -6,10 +6,10 @@ _**Educational applications for children and teenagers, as well as their parents
 
 ## Our projects:
 
-<tr>
+<table><tr>
 <td> <img src="images/chytalochka/icon_618.png" width="84"> </td>
 <td> <img src="images/chytalochka/logo_en.png" width="250"> </td>
-</tr>
+</tr></table>
 
 ## Contacts:
 - beadcatcraft@gmail.com
