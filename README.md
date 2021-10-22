@@ -7,8 +7,8 @@ _**Educational applications for children and teenagers, as well as their parents
 ## Our projects:
 
 <table><tr>
-<td> <img src="images/chytalochka/icon_618.png" width="84"> </td>
-<td> <img src="images/chytalochka/logo_en.png" width="250"> </td>
+<td> <img src="images/chytalochka/icon_618.png" alt="Drawing" style="width: 84px;"> </td>
+<td> <img src="images/chytalochka/logo_en.png" alt="Drawing" style="width: 250px;"> </td>
 </tr></table>
 
 ## Contacts:
