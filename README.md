@@ -1,3 +1,4 @@
+<body background="images/chytalochka/logo_en.png">
 <img src="images/topper.png">
 
 # Bead Cat Craft
