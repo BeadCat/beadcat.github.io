@@ -9,7 +9,7 @@ _**Educational applications for children and teenagers, as well as their parents
 <table><tr>
 <td> <img src="images/chytalochka/icon_618.png" alt="Drawing" style="width: 84px;"> </td>
 <td> <img src="images/chytalochka/logo_en.png" alt="Drawing" style="width: 250px;"> </td>
-<td> Version: 1.0.0<p>Date: 2021.10.22 </td>
+<td> Version: ** 1.0.0 ** <p> Date: ** 2021.10.22 ** </td>
 </tr></table>
 
 ## Contacts:
