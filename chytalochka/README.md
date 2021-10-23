@@ -4,7 +4,10 @@
 # Counting
 
 _**Educational application for children, preparing for school**_
-  
+
+<a href="https://beadcat.github.io/chytalochka/police.html">Privacy Policy</a>
+
+
 ## Description:
 
   A developing and educational app for children and teenagers, as well as helping parents prepare their children for math school
